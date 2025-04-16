@@ -4,6 +4,8 @@ The purpose of this tool is to operate an audience facing scoreboard for Taekwon
  - Calling divisions and players
  - Showing individual player scores
  - Show and Save ranked division results
+In version 1.1
+ - Optionally select and reveal poomsae which athletes will perform from a pre-populated list of options
 
 You will need:
  - a laptop running Microsoft Excel
